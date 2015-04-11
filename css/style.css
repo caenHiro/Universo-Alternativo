@@ -36,7 +36,7 @@ header {width:270px;float:left}
 #menu > li > a {display:inline-block;font-size:21px;line-height:46px;color:#434343;background:#fff;text-decoration:none;position:relative;letter-spacing:-1px}
 #menu > li > a span {display:block;background:url(../images/menu_bg_active.gif) top repeat-x #038ee5;position:absolute;width:100%;height:100%;top:0;left:0}
 #menu > li > a strong {position:relative;display:block;border-right:1px solid #f6f6f6;border-bottom:1px solid #f0f0f0;padding:0 60px 0 48px;height:50px}
-#menu > li > a:hover, #menu > li > a.active {color:#fff;background: url(../images/menu_bg_active.gif) top repeat-x #038ee5;}
+#menu > li > a:hover, #menu > li > a.active {border-radius:5px;color:#fff;background: url(../images/menu_bg_active.gif) top repeat-x #038ee5;}
 #menu > li > a:hover strong, #menu > li > a.active strong {border-bottom:0;border-right:0;padding-bottom:1px;padding-right:61px}
 /* ============================= content ====================== */
 #content > ul {width:690px;float:left;height:639px;position:relative}
